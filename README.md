@@ -1,0 +1,2 @@
+# resolusi
+untuk masa depan
