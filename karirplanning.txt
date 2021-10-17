@@ -1,5 +1,6 @@
 Rencana Karir
 
+- Membuat Web Landing Page sederhana
 - Internship di semester 6
 - Melamar ke startup/perusahaan impian
 - Menjadi Web Developer Profesional
@@ -10,4 +11,4 @@ Rencana Karir
 - Mempelajari Machine Learning
 - Menjadi Machine Learning Engineer
 - Menjadi Project Manager
-- Memiliki usaha GOR
+
