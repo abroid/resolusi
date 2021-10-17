@@ -1,0 +1,8 @@
+RESOLUSI
+
+- Belajar Mendalami Javascript
+- Belajar memahami framework css (tailwind)
+- Membuat Website landing page
+- Belajar Memahami API
+- Belajar Node js & Express
+- Membuat Web Application CRUD
