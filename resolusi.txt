@@ -5,6 +5,6 @@ RESOLUSI
 - Membuat Website landing page
 - Belajar Memahami API
 - Belajar Node js & Express
-- Mengikuti Hackathon
 - Membuat Web Application CRUD
 - Membuat Personal Portfolio
+- Membuat Website toko online
