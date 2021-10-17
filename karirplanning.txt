@@ -7,8 +7,10 @@ Rencana Karir
 - Mempelajari cloud computing (aws)
 - Mempelajari flutter
 - Menjadi Flutter Developer
-- Menjadi DBA
 - Mempelajari Machine Learning
 - Menjadi Machine Learning Engineer
 - Menjadi Project Manager
+
+
+
 
